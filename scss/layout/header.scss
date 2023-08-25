@@ -1,0 +1,70 @@
+header {
+    background-color: #4a4a4a;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
+    flex-direction: row;
+    position: sticky;
+    top: 1px;
+    z-index: 999999;
+         img {
+             width: 8rem;
+      
+      
+      
+      
+            }
+}
+
+
+
+header {
+
+    nav {
+
+     ul {
+         color: beige;
+         list-style: none;
+         display: flex;
+         align-items: center;
+         margin-bottom: 0;
+            li {
+               a {
+                 margin: 0 10px;
+                 text-decoration: none;
+                 color: #d8d8d8;
+                 justify-content: flex-end;
+                  }
+               }
+        }
+      }
+      
+    }
+
+
+
+
+
+header {
+
+        .botonHeader{
+            justify-content: right;
+            text-decoration: none;
+            color: #4a4a4a;
+            background-color: aliceblue;
+            border-radius: 12px;
+            padding: 8px;
+            transition: .4s;
+                     }
+        }
+
+
+.contactoReservar {
+            margin-left: 300px;
+            margin-right: 300px;
+                    }
+
+header .botonHeader:hover {
+    background-color: rgb(44, 43, 44);
+}
